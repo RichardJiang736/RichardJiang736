@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GitHub-Banner.png" alt="GitHub-Banner" width="1000" height="300"/>
+  <img src="GitHub-Banner.png" alt="GitHub-Banner" width="1000" height="250"/>
 </p>
 
 <h1 align="center" padding-bottom="30px">Hi, I'm Richard Jiang 👋</h1>
