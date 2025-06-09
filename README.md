@@ -1,4 +1,4 @@
-![The Swing](/workspaces/RichardJiang736/The Swing.jpg)
+![The Swing](Screenshot 2025-06-09 at 14.39.38.png)
 
 ## Richard Jiang
 ---
