@@ -1,7 +1,7 @@
 <h1 align="center" padding-bottom="30px">Hi, I'm Richard Jiang 👋</h1>
 
 - 👨‍💻 **ML Researcher**
-- 🎨 Love also talking about **Music** and **Film**
+- 🎨 Love sophisticated discussions about **Music** and **Film**
 - 📧 Interested in what I do? Reach out on **WeChat** (**微信号：rj127136**)
 
 ### Connect on LinkedIn:
