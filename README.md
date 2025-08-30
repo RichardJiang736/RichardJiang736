@@ -2,7 +2,8 @@
 
 - 👨‍💻 **ML Researcher**
 - 🎨 Love sophisticated discussions about **Music** and **Film**
-- 📧 Interested in what I do? Signed! Sealed! Deliver to **WeChat** (**微信号：rj127136**)
+- 💬 Interested in what I do? Talk on **WeChat** (**微信号：rj127136**)
+- 📨 **Email: jiangcw7@gmail.com** (*Signed! Sealed! And Delivered!*)
 
 ### Connect on LinkedIn:
 <a href="https://www.linkedin.com/in/richard-jiang-ba5349305"><img src="linked-in-alt.svg" alt="Connect on LinkedIn" width="32" height="32"></a>
